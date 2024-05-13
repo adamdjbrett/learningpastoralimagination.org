@@ -1,0 +1,8 @@
+{
+    "homepage":  "https://pastoralimagination.com/",
+    "homepage1": "https://eileencampbellreed.net",
+    "homepage2": "https://eileencampbellreed.info/",
+    "scripts": {
+      "shorten": "netlify-shortener"
+    }
+  }
