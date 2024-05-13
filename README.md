@@ -1,1 +1,3 @@
-# learningpastoralimagination.org-
+# learningpastoralimagination.org
+- learningpastoralimagination.net
+- learningpastoralimagination.com
