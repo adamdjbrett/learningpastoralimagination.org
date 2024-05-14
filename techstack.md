@@ -1,7 +1,7 @@
 <!--
 &lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
-adamdjbrett/stateofclergywomen.org is built on the following main stack:
+adamdjbrett/ learningpastoralimagination.org is built on the following main stack:
 
 
 
@@ -11,7 +11,7 @@ Full tech stack [here](/techstack.md)
 
 &lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
-adamdjbrett/stateofclergywomen.org is built on the following main stack:
+adamdjbrett/ learningpastoralimagination.org is built on the following main stack:
 
 
 
@@ -22,7 +22,7 @@ Full tech stack [here](/techstack.md)
 <div align="center">
 
 # Tech Stack File
-![](https://img.stackshare.io/repo.svg "repo") [adamdjbrett/stateofclergywomen.org](https://github.com/adamdjbrett/stateofclergywomen.org)![](https://img.stackshare.io/public_badge.svg "public")
+![](https://img.stackshare.io/repo.svg "repo") [adamdjbrett/ learningpastoralimagination.org](https://github.com/adamdjbrett/ learningpastoralimagination.org)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
 |1<br/>Tools used|12/14/23 <br/>Report generated|
 |------|------|
